@@ -122,7 +122,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 👨‍💻 About Me
 
-Hi, I'm an aspiring Data Professional passionate about transforming raw data into actionable insights.  
+Hi, I'm an IT professional passionate about transforming raw data into actionable insights.  
 This project is a showcase of my skills in:
 
 - Building ETL pipelines
